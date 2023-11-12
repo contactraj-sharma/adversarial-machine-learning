@@ -116,7 +116,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
 
 ##### ⬅️ Inversion (or inference) ⬅️
 
-They are intended to reverse the information flow of a machine learning model.
+They are intended to reverse the information flow of a machine-learning model.
 
 ![Inference attack](/assets/images/inversion.png)
 
